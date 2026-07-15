@@ -5,3 +5,4 @@ The best way are:
 - Sleep
 - code
 - repeat
+- program
