@@ -10,4 +10,4 @@ The best way are:
 Thank You!
 
 ## Summary
-This is nice repo 
+This is nice repositary.
